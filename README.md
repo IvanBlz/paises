@@ -1,16 +1,39 @@
 # paises
 
-A new Flutter project.
+App hecha en flutter de paises, realiza busquedas por país, región y capital mostrando un listado de los resultados y al seleccionar uno mostrandote información sobre el país
 
-## Getting Started
+## Api
 
-This project is a starting point for a Flutter application.
+> Se utilizo la api restcountries 3.1 https://restcountries.com/
 
-A few resources to get you started if this is your first Flutter project:
+## Esta app es de solo busqueda
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+*  Por país
+* Por región
+* Por capital
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## `Paises app`
+`Home - Busquedas`
+<p align="center">
+    <img src='https://raw.githubusercontent.com/IvanBlz/paises/master/demo/demo_3.jpg' width=320>
+  </a>
+</p>
+
+`Busqueda`
+<p align="center">
+    <img src='https://raw.githubusercontent.com/IvanBlz/paises/master/demo/demo_4.jpg' width=320>
+  </a>
+</p>
+
+`Error`
+<p align="center">
+    <img src='https://raw.githubusercontent.com/IvanBlz/paises/master/demo/demo_1.jpg' width=320>
+  </a>
+</p>
+
+`Información del país`
+<p align="center">
+    <img src='https://raw.githubusercontent.com/IvanBlz/paises/master/demo/demo_2.jpg' width=320>
+  </a>
+</p>
+
